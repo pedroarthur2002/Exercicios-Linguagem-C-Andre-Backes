@@ -1,0 +1,2 @@
+# Desconsidere arquivos executáveis gerados pela compilação do código
+output/
